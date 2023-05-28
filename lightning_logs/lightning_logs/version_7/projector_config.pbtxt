@@ -1,0 +1,60 @@
+embeddings {
+  tensor_name: "1:00047"
+  metadata_path: "00047/1\\metadata.tsv"
+  tensor_path: "00047/1\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "10:00047"
+  metadata_path: "00047/10\\metadata.tsv"
+  tensor_path: "00047/10\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "11:00047"
+  metadata_path: "00047/11\\metadata.tsv"
+  tensor_path: "00047/11\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "12:00047"
+  metadata_path: "00047/12\\metadata.tsv"
+  tensor_path: "00047/12\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "2:00047"
+  metadata_path: "00047/2\\metadata.tsv"
+  tensor_path: "00047/2\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "3:00047"
+  metadata_path: "00047/3\\metadata.tsv"
+  tensor_path: "00047/3\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "4:00047"
+  metadata_path: "00047/4\\metadata.tsv"
+  tensor_path: "00047/4\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "5:00047"
+  metadata_path: "00047/5\\metadata.tsv"
+  tensor_path: "00047/5\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "6:00047"
+  metadata_path: "00047/6\\metadata.tsv"
+  tensor_path: "00047/6\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "7:00047"
+  metadata_path: "00047/7\\metadata.tsv"
+  tensor_path: "00047/7\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "8:00047"
+  metadata_path: "00047/8\\metadata.tsv"
+  tensor_path: "00047/8\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "9:00047"
+  metadata_path: "00047/9\\metadata.tsv"
+  tensor_path: "00047/9\\tensors.tsv"
+}
